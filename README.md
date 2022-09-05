@@ -9,7 +9,7 @@ The other repositories showcase my individual work. Forest-fire-model is a proje
 I’m interested in data science and looking for a job in data analysis.
 I’m currently learning SQL, starting with Learning SQL Programming with Scott Simpson on LinkedIn.
 
-If you want to reach me drop me an email at raluca_pantilie@outlook.com.
+If you want to reach me drop me an email at raluca_pantilie at outlook.com.
 
 <!---
 RalPan/RalPan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
