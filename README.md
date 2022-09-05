@@ -5,9 +5,10 @@ Bellow you can find examples of my colaborative and individual work.
 The repository IWM-It-Works-on-my-Machine is a collaborative project for the SpaceApps challenge, 48-hour virtual hackathon. We designed a space docking system, which was nominated for global judging. The repository was used to create a website showcasing an animation of the system, as well as details on materials and other backround information. I researched existing systems, modeled and animated the system in Blender, a free 3D modeling software, and wrote parts of the website. 
 
 The other repositories showcase my individual work. 
+- Final-year-project holds my code for the master's thesis, where I investigated the use of machine learning in vortex systems, more specifically, in the mixed state of type II superconductors.
 - Forest-fire-model is a project investigating the Drossel-schwabl forest fire model as part of the "Scientific Computing Laboratory 2" module.
 - Topological_Insulators contains the code to a website I developed for the module "Current Topics in Theoretical Physics". The website presents the theory behind topologically insulating materials.
-- Final-year-project holds my code for the master's thesis, where I investigated the use of machine learning in vortex systems, more specifically, in the mixed state of type II superconductors.
+
 
 I’m interested in data science and looking for a job in data analysis.
 I’m currently learning SQL, starting with Learning SQL Programming with Scott Simpson on LinkedIn.
