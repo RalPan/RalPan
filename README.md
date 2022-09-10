@@ -2,7 +2,9 @@ Hi, I’m Raluca Pantilie, a recent graduate of the University of Birmingham wit
 
 Bellow you can find examples of my colaborative and individual work. 
 
-The repository IWM-It-Works-on-my-Machine is a collaborative project for the SpaceApps challenge, 48-hour virtual hackathon. We designed a space docking system, which was nominated for global judging. The repository was used to create a website showcasing an animation of the system, as well as details on materials and other backround information. I researched existing systems, modeled and animated the system in Blender, a free 3D modeling software, and wrote parts of the website. 
+Group projects are present in:
+- IWM-It-Works-on-my-Machine, collaborative project for the SpaceApps challenge, 48-hour virtual hackathon. We designed a space docking system, which was nominated for global judging. The repository was used to create a website showcasing an animation of the system, as well as details on materials and other backround information. I researched existing systems, modeled and animated the system in Blender, a free 3D modeling software, and wrote parts of the website.
+- Pollution-academic-performance-project, an analysis performed during the Data Science for Everyone module where we explored possible correlations between air polution and school performance.
 
 The other repositories showcase my individual work. 
 - Final-year-project holds my code for the master's thesis, where I investigated the use of machine learning in vortex systems, more specifically, in the mixed state of type II superconductors.
