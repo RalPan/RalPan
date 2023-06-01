@@ -12,8 +12,7 @@ The other repositories showcase my individual work.
 - Topological_Insulators contains the code to a website I developed for the module "Current Topics in Theoretical Physics". The website presents the theory behind topologically insulating materials.
 
 
-I’m interested in data science and looking for a job in data analysis.
-I’m currently learning SQL, starting with Learning SQL Programming with Scott Simpson on LinkedIn.
+I’m interested in software development and am looking for a job in this sector.
 
 If you want to reach me drop me an email at raluca_pantilie at outlook.com.
 
