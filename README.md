@@ -7,9 +7,12 @@ Group projects are present in:
 - Pollution-academic-performance-project, an analysis performed during the Data Science for Everyone module where we explored possible correlations between air polution and school performance.
 
 The other repositories showcase my individual work. 
+- Student-Information-System is a C#/.NET project developed during a self paced course. It uses Entity Framework implementation and a Model-View-Controller (MVC) design pattern.
+- Java_FullStack_Application is the capstone project of a training programme in Software Development. It showcases my use of Spring Boot, Maven, Thymeleaf, JPA repositories, JUnit testing, My SQL and HTML. The application code was organized with an MVC design pattern. During the project I developed a database normalized to third normal form (3NF).
 - Final-year-project holds my code for the master's thesis, where I investigated the use of machine learning in vortex systems, more specifically, in the mixed state of type II superconductors.
 - Forest-fire-model is a project investigating the Drossel-schwabl forest fire model as part of the "Scientific Computing Laboratory 2" module.
 - Topological_Insulators contains the code to a website I developed for the module "Current Topics in Theoretical Physics". The website presents the theory behind topologically insulating materials.
+
 
 
 I’m interested in software development and am looking for a job in this sector.
